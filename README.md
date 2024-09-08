@@ -15,6 +15,9 @@ Submissions was evaluated on the Root Mean Squared Logarithmic Error (RMSLE). Th
 Where:
 
 (n) is the number of hours in the test set
+
 (pi) is your predicted count
+
 (ai) is the actual count
+
 (log(x)) is the natural logarithm
